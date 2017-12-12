@@ -1,6 +1,6 @@
-# Arizonans For Children
+# Arizonan's For Children
 
-## Table of contents:
+## Table of contents
 
 1. [Authors](#authors)
 
