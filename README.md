@@ -7,3 +7,4 @@
 ## Authors
 
 [Westin Christensen](www.github.com/westinrc)
+[Victoria Ottenheimer](www.github.com/vottenhe)
