@@ -57,4 +57,4 @@ Line length should aim to be under 120 characters, use another line if needed.
 
 [Westin Christensen](www.github.com/westinrc)
 </br>
-[Tori Ottenheimer](www.github.com/vottenhe)
+[Victoria Ottenheimer](www.github.com/vottenhe)
